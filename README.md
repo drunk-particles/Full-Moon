@@ -8,7 +8,9 @@ A  light inspired theme for DHH's Omarchy, an opinioned Arch Linux setup.
 
 ### Installation
 
-Install on an existing omarchy setup using `omarchy-theme-install https://github.com/drunk-particles/omarchy-dotfiles.git`
+Install on an existing omarchy setup using 
+
+`omarchy-theme-install https://github.com/drunk-particles/omarchy-dotfiles.git`
 
 ### Usage
 
