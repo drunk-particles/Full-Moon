@@ -1,28 +1,37 @@
-[colors]
 [colors.primary]
-background = "#e3dfd4"
-foreground = "#000000"
+# Brighter, cleaner parchment (less grey, more "cream")
+background = "#f2ede0"
+# Solid charcoal-black for clear text
+foreground = "#1a1a1a"
 
 [colors.normal]
-black   = "#e3dfd4"
-red     = "#947d47"
-green   = "#6e783a"
-yellow  = "#877d40"
-blue    = "#806e3d"
-magenta = "#79683a"
-cyan    = "#726536"
-white   = "#212121"
+# "Dust" - visible but out of the way
+black   = "#9e9781"
+# Dried Brick Red
+red     = "#b83232"
+# Deep Forest Green
+green   = "#4a7a3a"
+# Harvest Gold/Yellow
+yellow  = "#a87b00"
+# Royal Navy Blue (the primary "pop" color)
+blue    = "#2e5a82"
+# Deep Mulberry
+magenta = "#8e4062"
+# Verdigris/Teal
+cyan    = "#2b7a7a"
+# Aged Paper White
+white   = "#454545"
 
 [colors.bright]
-black   = "#757575"
-red     = "#c2ab75"
-green   = "#636d2c"
-yellow  = "#bcb066"
-blue    = "#b9a160"
-magenta = "#b69d59"
-cyan    = "#b39e51"
+black   = "#706a57"
+red     = "#d44444"
+green   = "#5e944a"
+yellow  = "#c79200"
+blue    = "#3d76a8"
+magenta = "#b0527b"
+cyan    = "#369696"
 white   = "#000000"
 
 [colors.cursor]
-text   = "#e3dfd4"
-cursor = "#000000"
+text   = "#f2ede0"
+cursor = "#1a1a1a"
