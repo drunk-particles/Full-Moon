@@ -10,6 +10,10 @@ A  light inspired theme for DHH's Omarchy, an opinioned Arch Linux setup.
 
 
 
+### 🌸 Waybar Theme
+
+If you're interested, You may access the Waybar theme configuration  [here.](https://github.com/drunk-particles/waybar.git)  
+
 ### Installation
 
 Install on an existing omarchy setup using
@@ -17,16 +21,4 @@ Install on an existing omarchy setup using
 ```
 omarchy-theme-install https://github.com/drunk-particles/Full-Moon.git
 ```
-
-
-
-### Usage
-
-Once installed, press Ctrl + Shift + Super + Space, select "Full Moon" and  you should be able to see it in the lists.
-
-
-
-### 🌸 Waybar Theme
-
-You may access the Waybar theme configuration  [here.](https://github.com/drunk-particles/waybar.git)  
 
