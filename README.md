@@ -2,7 +2,9 @@
 
 A  light inspired theme for DHH's Omarchy, an opinioned Arch Linux setup.
 
-####                                               `Preview`
+###  Preview
+
+
 
 ![](https://github.com/drunk-particles/Full-Moon/blob/main/preview.png)
 
