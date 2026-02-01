@@ -23,3 +23,14 @@ omarchy-theme-install https://github.com/drunk-particles/Full-Moon.git
 ### Usage
 
 Once installed, press Ctrl + Shift + Super + Space, select "Full Moon" and  you should be able to see it in the lists.
+
+
+
+### Waybar Theme
+
+If you're interested about the waybar theme you may check out this repository
+
+```
+https://github.com/drunk-particles/waybar.git
+```
+
