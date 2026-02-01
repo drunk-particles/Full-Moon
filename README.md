@@ -8,6 +8,8 @@ A  light inspired theme for DHH's Omarchy, an opinioned Arch Linux setup.
 
 ![](https://github.com/drunk-particles/Full-Moon/blob/main/barebone.png)
 
+![](https://github.com/drunk-particles/Full-Moon/blob/main/look.png)
+
 
 
 ### 🌸 Waybar Theme
