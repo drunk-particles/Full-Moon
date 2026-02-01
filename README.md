@@ -28,5 +28,5 @@ Once installed, press Ctrl + Shift + Super + Space, select "Full Moon" and  you 
 
 ### Waybar Theme
 
-If you're interested about the waybar theme you may check out this [repository.](https://github.com/drunk-particles/waybar.git)
+You may access the Waybar theme configuration via  [GitHub.](https://github.com/drunk-particles/waybar.git)
 
