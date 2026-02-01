@@ -12,7 +12,7 @@ A  light inspired theme for DHH's Omarchy, an opinioned Arch Linux setup.
 
 ### Installation
 
-Install on an existing omarchy setup using 
+Install on an existing omarchy setup using
 
 ```
 omarchy-theme-install https://github.com/drunk-particles/Full-Moon.git
@@ -22,4 +22,4 @@ omarchy-theme-install https://github.com/drunk-particles/Full-Moon.git
 
 ### Usage
 
-Once installed, press Ctrl+Shift+Super+Space, select "Full Moon" and everything should refresh automatically.
+Once installed, press Ctrl + Shift + Super + Space, select "Full Moon" and  you should be able to see it in the lists.
