@@ -15,7 +15,7 @@ A  light inspired theme for DHH's Omarchy, an opinioned Arch Linux setup.
 Install on an existing omarchy setup using 
 
 ```
-`omarchy-theme-install https://github.com/drunk-particles/Full-Moon.git`
+omarchy-theme-install https://github.com/drunk-particles/Full-Moon.git
 ```
 
 
