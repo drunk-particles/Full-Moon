@@ -4,11 +4,10 @@ A  light inspired theme for DHH's Omarchy, an opinioned Arch Linux setup.
 
 ## Preview
 
-![](https://github.com/drunk-particles/Full-Moon/blob/main/preview.png)
-
-![](https://github.com/drunk-particles/Full-Moon/blob/main/barebone.png)
-
-![](https://github.com/drunk-particles/Full-Moon/blob/main/look.png)
+| ![img](demo/1.png) | ![img](demo/0.png)                                           |
+| ------------------ | ------------------------------------------------------------ |
+| ![img](demo/4.png) | ![img](demo/2.png)                                           |
+| ![img](demo/6.png) | ![img](/home/pseudo/.config/omarchy/themes/full-moon/demo/3.png) |
 
 
 
