@@ -4,10 +4,20 @@ A  light inspired theme for DHH's Omarchy, an opinioned Arch Linux setup.
 
 ## Preview
 
-| ![img](demo/1.png) | ![img](demo/0.png)                                           |
-| ------------------ | ------------------------------------------------------------ |
-| ![img](demo/4.png) | ![img](demo/2.png)                                           |
-| ![img](demo/6.png) | ![img](/home/pseudo/.config/omarchy/themes/full-moon/demo/3.png) |
+<table>
+  <tr>
+    <td><img src="demo/1.png" width="400"/></td>
+    <td><img src="demo/2.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="demo/3.png" width="400"/></td>
+    <td><img src="demo/4.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="demo/5.png" width="400"/></td>
+    <td><img src="demo/6.png" width="400"/></td>
+  </tr>
+</table>
 
 
 
